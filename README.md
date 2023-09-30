@@ -1,4 +1,4 @@
-### 👋 Hi there, I am marcwelz
+### 👋 Hi there, I am @marcwelz
 
 <!--
 **marcwelz/marcwelz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
