@@ -1,4 +1,4 @@
-# Currently using BitBucket
+# This Profile does not represent my work. My real contributions are on private Repos and on BitBucket. This github account is only for random stuff
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marc-welz-490015199) 
